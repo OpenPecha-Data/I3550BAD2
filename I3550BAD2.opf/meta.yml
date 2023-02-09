@@ -1,0 +1,16 @@
+id: I3550BAD2
+default_language: sa
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 15:02:52.580052
+last_modified: 2023-02-09 15:02:52.580220
+source_metadata:
+  title: 'MSV 1,03: Pravāraṇāvastu'
+  language: sa
+bases:
+  0A8A:
+    base_file: 0A8A.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
